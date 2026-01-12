@@ -78,7 +78,4 @@ Modeller aşağıdaki metrikler kullanılarak karşılaştırılmıştır:
 Bu proje, makine öğrenmesinin sağlık alanında **erken risk tespiti** amacıyla nasıl kullanılabileceğini göstermektedir.  
 Özellikle tıbbi veri setlerinde doğru ön işleme adımları ve uygun değerlendirme metriklerinin seçimi kritik öneme sahiptir.
 
----
-
-## 📁 Proje Yapısı
 
